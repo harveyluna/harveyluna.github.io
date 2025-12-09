@@ -52,7 +52,7 @@ email: hluna@smu.edu # your email address
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: HarveyLuna.JPG # can be png, svg, jpg
-  title: SMU CORE
-  url: https://https://www.smu.edu/simmons/research/center-on-research-evaluation/
+#custom_social: # can be any name here other than the ones already defined above
+  #logo: HarveyLuna.JPG # can be png, svg, jpg
+  #title: SMU CORE
+  #url: https://https://www.smu.edu/simmons/research/center-on-research-evaluation/
