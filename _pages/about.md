@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Dallas-Based. Data Nerd. Cat Dad.
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Harvey Luna is the [Operations Manager](https://www.smu.edu/simmons/about-us/directory/center-on-research-evaluation/luna) at [The Addy Foundation Center on Research and Evaluation (CORE) at Southern Methodist University (SMU)](https://www.smu.edu/simmons/research/center-on-research-evaluation). He has served at SMU for 10 years. His responsibilities include building and maintaining financial reporting systems, and leading data infrastructure work for a variety of research projects. Harvey primarily works in the education field with non-profits, foundations, and school districts.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Harvey began his journey in the data world as a data collector in the remote islands of Galapagos, working with CORE and the Galapagos Conservancy to evalute a new teacher professional development program on the islands. Since then, he has explored the full pipeline from instrument and evaluation deign, collecting data on the ground, processing data, analysing and reporting, and disseminating information to clients and at professional conferences. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Harvey is currently a Masters students in Data Science at Southern Methodist University, further pusuing his path in data science, analytics, and visualization. He obtained his Bachelor of Arts in Political Science and Bachelor of Science in Economics with Financial Applications from Southern Methodist University in 2014. Harvey currently holds CITI certification for Human Subjects Research (HSR) and Social & Behavioral Research.
