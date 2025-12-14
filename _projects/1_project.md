@@ -1,81 +1,48 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Abalone Case Study
+description: Data science project demonstrating exploratory analysis, interactive visualization, and RAG implementation
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Executive Summary
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project leverages the UCI Abalone Dataset to demonstrate various data science competencies. The initiative encompasses exploratory data analysis, an interactive R Shiny application, and a retrieval-augmented generation (RAG) system focused on abalone research.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Key Deliverables
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### RAG Application
+Implemented cutting-edge methodology (2025) with comprehensive documentation in a Jupyter notebook explaining the development process. This retrieval-augmented generation system enables advanced querying and analysis of abalone research data.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### R Shiny Application
+Developed an interactive tool enabling users to examine how different variables are distributed across the dataset. The application provides dynamic visualizations and exploration capabilities for the abalone data.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### Research Presentation
+Presented findings through a comprehensive Canva presentation titled "Abalone Case Study," showcasing the project's methodology, results, and insights.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Research Findings
 
-{% raw %}
+The exploratory data analysis informed the development of a predictive model for estimating abalone age. A Lasso Regularization model emerged as the top performer with the following metrics:
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- **Mean Absolute Error**: 1.35 years
+- **Mean Absolute Percentage Error**: 12.74%
+- **Root Mean Square Error**: 2.02
+- **R² Score**: 0.62
 
-{% endraw %}
+## Methodology
+
+The analysis was conducted in R, with complete results documented in an accompanying analysis PDF available through the project repository. The project demonstrates proficiency in:
+
+- Exploratory data analysis
+- Statistical modeling and validation
+- Interactive web application development
+- Modern RAG implementation
+- Data visualization and communication
+
+## Project Links
+
+- [Project Documentation](https://lone-wolfgang.github.io/abalone-rag/)
+- [Interactive Demo](https://lone-wolfgang.github.io/abalone-rag/#executive-summary)
