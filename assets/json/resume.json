@@ -1,200 +1,157 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Harvey Luna",
+    "label": "Operations Manager",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hluna@smu.edu",
+    "phone": "214-768-7720",
+    "url": "https://harveyluna.github.io/",
+    "summary": "Operations Manager at The Addy Foundation Center on Research & Evaluation (CORE) at Southern Methodist University. Experienced in data analytics, public policy, team development, organizational design, and mixed methods research. Coordinates international teacher professional development and manages evaluation and data collection efforts for educational projects.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "6116 N Central Expressway, Suite 400",
+      "postalCode": "TX 75206",
+      "city": "Dallas",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "harveyluna",
+        "url": "https://www.linkedin.com/in/harveyluna/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Southern Methodist University - Center on Research & Evaluation (CORE)",
+      "position": "Operations Manager",
+      "url": "https://www.smu.edu/simmons/research/center-on-research-evaluation",
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "summary": "Operations Manager at The Addy Foundation Center on Research & Evaluation (CORE). Coordinates international teacher professional development for the Galápagos project, engaging with the Galapagos Conservancy and Ecuadorian Ministry of Education. Manages evaluation and data collection efforts for projects involving over 300 teachers and school administrators.",
+      "highlights": [
+        "Manages evaluation and data collection for projects with 300+ teachers and administrators",
+        "Coordinates international teacher professional development in Galápagos",
+        "Partners with Galapagos Conservancy and Ecuadorian Ministry of Education"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Center for Global Health Impact",
+      "position": "Project Coordinator",
+      "url": "",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Coordinated with the George W. Bush Institute, Centers for Disease Control and Prevention Foundation, World Health Organization, and the Zambian Ministry of Health on cervical cancer prevention initiatives.",
+      "highlights": [
+        "Coordinated with George W. Bush Institute on global health initiatives",
+        "Partnered with CDC Foundation, WHO, and Zambian Ministry of Health",
+        "Focused on cervical cancer prevention programs"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Southern Methodist University",
+      "location": "Dallas, Texas",
+      "url": "https://www.smu.edu/",
+      "area": "Political Science",
+      "studyType": "B.A.",
+      "startDate": "2007-01-01",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": []
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Southern Methodist University",
+      "location": "Dallas, Texas",
+      "url": "https://www.smu.edu/",
+      "area": "Economics with Financial Applications",
+      "studyType": "B.S.F.A.",
+      "startDate": "2007-01-01",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": []
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Data on the Move: Lessons We Are Learning from the Expanded Learning Information System",
+      "publisher": "National Afterschool Association Annual Convention",
+      "releaseDate": "2022-01-01",
+      "url": "",
+      "summary": "Presentation on lessons learned from the Expanded Learning Information System with co-presenters Wright, MacPherson, Murat, and Gallegos."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Intercultural Bilingual Education School and Migrant Indigenous Populations: The Case of the Galapagos Islands, Ecuador",
+      "publisher": "American Educational Research Association Annual Meeting",
+      "releaseDate": "2020-01-01",
+      "url": "",
+      "summary": "Research presentation on intercultural bilingual education for migrant indigenous populations in the Galapagos Islands."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "A Public-Private Partnership Connecting Education Policy with Environmental and Sustainability Education in Galapagos",
+      "publisher": "Comparative & International Education Society Annual Conference",
+      "releaseDate": "2019-01-01",
+      "url": "",
+      "summary": "Presentation on public-private partnerships in environmental and sustainability education."
+    },
+    {
+      "name": "Applying Empowerment Evaluation Principles for Sustainability in Galapagos",
+      "publisher": "American Evaluation Association Annual Conference",
+      "releaseDate": "2017-01-01",
+      "url": "",
+      "summary": "Presentation on applying empowerment evaluation principles for sustainable development in Galapagos."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Research & Evaluation",
+      "level": "Expert",
+      "icon": "fa-solid fa-chart-line",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Data Analytics",
+        "Mixed Methods Research",
+        "Program Evaluation",
+        "Data Collection"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "Project Management",
+      "level": "Expert",
+      "icon": "fa-solid fa-tasks",
+      "keywords": [
+        "International Coordination",
+        "Team Development",
+        "Organizational Design",
+        "Stakeholder Engagement"
+      ]
+    },
+    {
+      "name": "Policy & Education",
+      "level": "Advanced",
+      "icon": "fa-solid fa-graduation-cap",
+      "keywords": [
+        "Public Policy",
+        "Education Policy",
+        "Professional Development",
+        "International Education"
+      ]
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research Areas",
+      "icon": "fa-solid fa-lightbulb",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Data Analytics",
+        "Public Policy",
+        "Team Development",
+        "Organizational Design",
+        "Mixed Methods Research",
+        "International Education",
+        "Environmental Education"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
