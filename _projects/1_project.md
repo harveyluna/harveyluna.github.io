@@ -71,14 +71,13 @@ The analysis was conducted in R, with complete results documented in an accompan
 ## Project Resources
 
 ### Analysis & Reports
-- [Complete Analysis Report (PDF)]({{ site.baseurl }}/assets/projects/abalone-rag/analysis.pdf){:target="_blank"}
 - [Feature Summary Report (PDF)]({{ site.baseurl }}/assets/projects/abalone-rag/FeatureSummary.pdf){:target="_blank"}
 - [Model Summary Report (PDF)]({{ site.baseurl }}/assets/projects/abalone-rag/ModelSummary.pdf){:target="_blank"}
 
 ### Code & Notebooks
+- [Full Analysis R Markdown]({{ site.baseurl }}/assets/projects/abalone-rag/abalone_analysis.Rmd){:target="_blank"}
+- [Exploratory Data Analysis (PDF)]({{ site.baseurl }}/assets/projects/abalone-rag/analysis.pdf){:target="_blank"}
 - [RAG Development Notebook]({{ site.baseurl }}/assets/projects/abalone-rag/build_abalone_RAG_app.ipynb){:target="_blank"}
-- [Analysis R Markdown]({{ site.baseurl }}/assets/projects/abalone-rag/abalone_analysis.Rmd){:target="_blank"}
 
 ### External Links
-- [Project Documentation](https://lone-wolfgang.github.io/abalone-rag/){:target="_blank"}
 - [Interactive Demo](https://lone-wolfgang.github.io/abalone-rag/#executive-summary){:target="_blank"}
