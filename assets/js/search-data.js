@@ -66,7 +66,7 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "projects-abalone-case-study",
           title: 'Abalone Case Study',
-          description: "Data science project demonstrating exploratory analysis, interactive visualization, and RAG implementation",
+          description: "Data science project demonstrating exploratory analysis, predictive modeling, interactive RShiny app, and RAG implementation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
