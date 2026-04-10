@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Exemplar work completed during the SMU Masters of Science in Data Science Program",
+          description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -66,7 +66,7 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "projects-abalone-case-study",
           title: 'Abalone Case Study',
-          description: "Data science project showcasing exploratory data analysis, model development, RAG implementation, and interactive RShiny app",
+          description: "Data science project demonstrating exploratory analysis, interactive visualization, and RAG implementation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
